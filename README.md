@@ -1,1 +1,1 @@
-Hello everyone!
+Hepp på dig!
