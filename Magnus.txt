@@ -1,2 +1,9 @@
 Jag testar att lägga till en textfil :)
+<<<<<<< HEAD
 Du gör rätt i att lägga till en textfil :)
+=======
+
+Jag skriver mer!
+
+Ge fan i o ändra här
+>>>>>>> aeee8a2ff019d67fff51b900050b822e4e8c2f0f
